@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! My name is Ansh Gahoi and I'm a Frontend Developer & Machine Learning from ....</h2>
+<h2 align="left">👋 Hey There!</h2>
+
+###
+
+<h3 align="left">My name is Ansh Gahoi.<br><br>📚 I'm a Frontend Developer & AI ML enthusiast from INDIA.<br><br>✨ Coding the Future, Byte by Byte.</h3>
 
 ###
 
@@ -9,7 +13,7 @@
 
 ###
 
-<h3 align="left">Technologies I know</h3>
+<h3 align="left">Technologies I use</h3>
 
 ###
 
@@ -69,10 +73,6 @@
 
 ###
 
-<img align="right" height="191" src="https://i.pinimg.com/564x/ee/a7/bc/eea7bcc47dd6af702d05971ab63dacf1.jpg"  />
-
-###
-
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <a href="https://www.instagram.com/_anxh0/" target="_blank">
@@ -88,8 +88,12 @@
 
 ###
 
+<img align="right" height="191" src="https://i.pinimg.com/564x/ee/a7/bc/eea7bcc47dd6af702d05971ab63dacf1.jpg"  />
+
+###
+
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+  <img src="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31zskzgiq265t667xnuf3dm32mh4)" alt="Spotify recently played"  />
 </div>
 
 ###
