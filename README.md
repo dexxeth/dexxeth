@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My name is Ansh Gahoi.<br><br>📚 I'm a Frontend Developer & AI ML enthusiast from INDIA.<br><br>✨ Coding the Future, Byte by Byte.</h3>
+<h3 align="left">My name is Ansh Gahoi.<br><br>📚 I'm a Full Stack Developer, AI & ML enthusiast from INDIA.<br><br>✨ Coding the Future, Byte by Byte.</h3>
 
 ###
 
