@@ -4,7 +4,7 @@
 
 <h3 align="left">
 My name is Ansh Gahoi.<br><br>
-💻 Full Stack Developer | Machine Learning Intern @ OpsTree Solutions | ML Studio Creator<br><br>
+💻 Machine Learning and Backend Engineer<br><br>
 🚀 Building ML automation tools & scalable systems.<br><br>
 ✨ Coding the Future, Byte by Byte.
 </h3>
