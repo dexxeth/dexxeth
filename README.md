@@ -5,7 +5,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anxh0f) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ansh-gahoi) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@anxh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshgup.9450@gmail.com) 
 
 # 📊 GitHub Stats:
-![GitHub Stats](/profile-3d-contrib/profile-night-green.svg)
+<p align="center">
+  <img src="/profile-3d-contrib/profile-night-green.svg" width="50%"/>
+</p>
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=dexxeth&theme=dark"/>
 </p>
