@@ -7,8 +7,6 @@
 # 📊 GitHub Stats:
 <p align="center">
   <img src="/profile-3d-contrib/profile-night-green.svg" width="50%"/>
-</p>
-<p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=dexxeth&theme=dark"/>
 </p>
 
