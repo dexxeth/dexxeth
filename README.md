@@ -6,15 +6,8 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img 
-    src="/profile-3d-contrib/profile-night-green.svg" 
-    width="50%" 
-    style="vertical-align: middle;"
-  />
-  <img 
-    src="https://github-readme-stats-fast.vercel.app/api/streak?username=dexxeth&theme=dark"
-    style="vertical-align: middle;"
-  />
+  <img src="/profile-3d-contrib/profile-night-green.svg" width="50%"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=dexxeth&theme=dark"/>
 </p>
 
 # 💻 Tech Stack:
