@@ -7,7 +7,7 @@
 ## GitHub Stats
 <p align="center">
   <img src="/profile-3d-contrib/profile-night-green.svg" width="50%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=dexxeth&theme=dark" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=dexxeth&theme=dark" width="40%" />
 </p>
 
 ## Technologies
