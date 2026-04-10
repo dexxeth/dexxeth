@@ -5,7 +5,7 @@
 - Coding the Future, Byte by Byte.
 
 ## GitHub Stats
-<p align="center">
+<p align="center"; width="100%">
   <img src="/profile-3d-contrib/profile-night-green.svg" width="50%" />
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=dexxeth&theme=dark" width="40%" />
 </p>
