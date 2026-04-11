@@ -16,7 +16,7 @@
 ## Dev Quote
 <p align="center">
   <!-- <img src="https://i.pinimg.com/564x/2c/88/fb/2c88fb4b14f508c2f6a95386d54ed99b.jpg"/> -->
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=samuel&font=default&quoteType=quote-for-the-day" width="100%"/>
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=samuel&font=default&quoteType=quote-for-the-day" />
 </p>
 
 ## Socials
