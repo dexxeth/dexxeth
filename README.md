@@ -1,7 +1,7 @@
 ## Hey There!
 - My name is Ansh Gahoi.
-- I am a Artificial Intelligence & Machine Learning and Backend Engineer
-- Building AI/ML automation tools & scalable systems.
+- I am a AI/ML and Full Stack Engineer
+- Building Full Stack AI/ML automation tools & scalable systems.
 - Coding the Future, Byte by Byte.
 
 ## GitHub Stats
